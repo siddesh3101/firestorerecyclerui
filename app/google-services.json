@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "993756616989",
+    "project_id": "fir-recyclerview-a340e",
+    "storage_bucket": "fir-recyclerview-a340e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993756616989:android:28fbb0eaa8d7f7ce3769f4",
+        "android_client_info": {
+          "package_name": "com.example.firebaserecyclerview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993756616989-1t4b7inofh4s2uf8shig97kkrulk3iht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-cPMU8a9KpELOmH0cCN9kKx7tbmWprtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993756616989-1t4b7inofh4s2uf8shig97kkrulk3iht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
